@@ -18,4 +18,5 @@ A small lottery program by using Tkinter and Openpyxl, get list of candidates to
 3.  运行py文件，输入待抽奖人数，点击开始，开始滚动，点击确定，停止滚动
     run randGift.py, type in the amount you need to lottery, and press left button for start rolling, press right button to stop
 
-![image](https://user-images.githubusercontent.com/53886433/132345513-6d7648c0-6c41-461f-8c0c-7c290803829b.png)
+![run_demo](https://user-images.githubusercontent.com/53886433/133023744-0b655686-1f3b-49be-bf59-fdca4892e142.gif)
+
